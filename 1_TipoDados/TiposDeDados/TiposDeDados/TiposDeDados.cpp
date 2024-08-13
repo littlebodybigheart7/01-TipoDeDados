@@ -1,4 +1,4 @@
-// TiposDeDados.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// TiposDeDados.cpp : This file contains the 'main' function. Program execution begins and ends there.bruna
 //
 
 #include <iostream>
@@ -9,7 +9,6 @@ int main()
 	cout << "Estrutura de Dados - Fatec" << endl;
 	
 	cout << "Tipos Numericos\n";
-	cout << "brunaa\n";
 	cout << "===============\n";
 	int i = 10;
 	short s = 18;
