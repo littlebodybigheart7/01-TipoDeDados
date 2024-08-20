@@ -8,7 +8,7 @@ int main()
 {
 	cout << "Estrutura de Dados - Fatec" << endl;
 	
-	cout << "Tipos Numericos\n";
+	cout << "Tipos Numericos\n";oiposksçortoerkç
 	cout << "===============\n";
 	int i = 10;
 	short s = 18;
